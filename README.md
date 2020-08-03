@@ -4,9 +4,9 @@ Analyzing and comparing different community detection algorithms on different ty
 ## How to use
 * Place input graphs in Graphs directory.
 * Update BASE_DIR in InputConfig and AnalysisConfig(Analysis Directory).
-* Place query in AnalysisConfig. Format : 
-	* SLC, <communityAlgo> , <layer-name> 
-	* Algorithms:
+* Place query in AnalysisConfig. Format 
+	* SLC, CommunityAlgorithmName , Layer-name
+	* Algorithms
 		*infomap
 		*louvain
 		*multilevel
