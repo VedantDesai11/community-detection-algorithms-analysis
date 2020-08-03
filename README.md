@@ -20,6 +20,14 @@ Analyzing and comparing different community detection algorithms on different ty
 
 Example results are place in Analysis directory
 
+Comparison results printed on screen. Metrics used for comparison:
+* Jaccard 
+* Clustering Coefficient
+* Modularity
+* Time taken
+* Number of Communities
+* NMI
+
 ## Packages used
 * igraph
 * networkx
