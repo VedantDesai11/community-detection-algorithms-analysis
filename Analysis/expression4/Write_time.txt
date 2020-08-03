@@ -1,0 +1,4 @@
+#Time to write nodes: 0.031238317489624023s
+#Time to write edges: 0.7498233318328857s
+#Time to write bridge edges: 0.0s
+#Total time taken: 0.7810616493225098s

@@ -1,0 +1,36 @@
+#Communities in actor-genre layer using louvain
+OUTPUT_DIR = C:\Users\vdntd\OneDrive\Documents\PythonProjects\AdvancedDBProject\Analysis
+#Analysis Below: SLC,<communityAlgo>,<layer-name>
+SingleLayer,louvain,F
+
+#Communities in actor-genre layer using louvain
+OUTPUT_DIR = C:\Users\vdntd\OneDrive\Documents\PythonProjects\AdvancedDBProject\Analysis
+#Analysis Below: SLC,<communityAlgo>,<layer-name>
+SingleLayer,infomap,F
+
+#Communities in actor-genre layer using louvain
+OUTPUT_DIR = C:\Users\vdntd\OneDrive\Documents\PythonProjects\AdvancedDBProject\Analysis
+#Analysis Below: SLC,<communityAlgo>,<layer-name>
+SingleLayer,fastgreedy,F
+
+#Communities in actor-genre layer using louvain
+OUTPUT_DIR = C:\Users\vdntd\OneDrive\Documents\PythonProjects\AdvancedDBProject\Analysis
+#Analysis Below: SLC,<communityAlgo>,<layer-name>
+SingleLayer,walktrap,F
+
+#Communities in actor-genre layer using louvain
+OUTPUT_DIR = C:\Users\vdntd\OneDrive\Documents\PythonProjects\AdvancedDBProject\Analysis
+#Analysis Below: SLC,<communityAlgo>,<layer-name>
+SingleLayer,leadingeigenvector,F
+
+#Communities in actor-genre layer using louvain
+OUTPUT_DIR = C:\Users\vdntd\OneDrive\Documents\PythonProjects\AdvancedDBProject\Analysis
+#Analysis Below: SLC,<communityAlgo>,<layer-name>
+SingleLayer,multilevel,F
+
+
+
+
+
+
+
