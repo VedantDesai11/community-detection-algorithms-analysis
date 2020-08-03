@@ -18,7 +18,7 @@ Analyzing and comparing different community detection algorithms on different ty
 * Select InputConfig file and AnalysisConfig file. 
 * Check results in Analysis folder under corresponding expression directory.
 
-Example results are place in Analysis directory
+## Example results are place in Analysis directory
 
 Comparison results printed on screen. Metrics used for comparison:
 * Jaccard 
